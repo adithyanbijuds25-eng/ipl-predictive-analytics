@@ -83,7 +83,7 @@ logical predictions based on cricket domain knowledge.
 
 ### Stage 9 — Deployment
 Model deployed on Streamlit Community Cloud.
-Live App: [Add your Streamlit link here]
+Live App: Member1: added Streamlit deployment link to README
 
 ### Stage 10 — Documentation
 Full documentation available in this README, 
