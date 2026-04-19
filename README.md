@@ -83,7 +83,7 @@ logical predictions based on cricket domain knowledge.
 
 ### Stage 9 — Deployment
 Model deployed on Streamlit Community Cloud.
-Live App: Member1: added Streamlit deployment link to README
+Live App: Member1: https://ipl-predictive-analytics-ghf3nh6np9wdrhcckgopxi.streamlit.app/
 
 ### Stage 10 — Documentation
 Full documentation available in this README, 
