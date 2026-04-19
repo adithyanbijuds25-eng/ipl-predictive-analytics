@@ -106,6 +106,7 @@ PPT presentation and Jupyter notebook.
 ## 🚀 Deployment
 - **Platform:** Streamlit Community Cloud
 - **Live App:**https://ipl-predictive-analytics-ghf3nh6np9wdrhcckgopxi.streamlit.app/
+- ![Streamlit App Screenshot](streamlit_screenshot.png)
 
 ## ⚙️ How to Run Locally
 1. Clone the repository:
