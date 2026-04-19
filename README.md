@@ -1,31 +1,32 @@
-# IPL Predictive Analytics
+# 🏏 IPL Predictive Analytics — Batsman Run Prediction
 
-## Team Members
-- Member 1: Adithyan Biju
-- Member 2: Fidal Govind
-- Member 3: Archana Das
 
-## Problem Statement
-This project predicts IPL batsman runs using 
-machine learning techniques including Linear 
-Regression and Logistic Regression.
+## 📌 Project Overview
+This project predicts IPL batsman runs using machine 
+learning techniques. By analyzing historical IPL data 
+from 2008 to 2020, we built models that can predict 
+how many runs a batsman will score based on match 
+conditions and player statistics.
 
-## Dataset
-IPL Complete Dataset 2008-2020 from Kaggle
-Files: deliveries.csv and matches.csv
+## 👥 Team Members
+| Member | Name | Contribution |
+|--------|------|-------------|
+| Member 1 | Adithyan Biju | Problem Statement, Feature Engineering, SHAP, Deployment |
+| Member 2 | Fidal Govind | EDA, Model Building, README |
+| Member 3 | Archana Das | Preprocessing, Model Evaluation, PPT |
 
-## Models Used
-- Simple Linear Regression
-- Multiple Linear Regression
-- Logistic Regression
+## 🎯 Problem Statement
+Cricket is one of the most popular sports in the world 
+and IPL is its biggest tournament. Predicting batsman 
+performance can help teams make better decisions about 
+team selection and match strategy. This project uses 
+machine learning to predict batsman runs based on 
+historical IPL data from 2008 to 2020.
 
-## How to Run
-1. Clone the repo
-2. Install requirements: pip install -r requirements.txt
-3. Open ipl_project.ipynb in Jupyter or Colab
-4. Upload deliveries.csv and matches.csv
-5. Run all cells
+## 📂 Dataset
+- **Source:** Kaggle — IPL Complete Dataset 2008-2020
+- **Files:** deliveries.csv and matches.csv
+- **Size:** 179,078 deliveries across 816 matches
+- **Features:** Batsman, bowler, venue, batting team, bowling team, runs scored
 
-## Deployment
-Link: [Add Streamlit link here]
-
+## 🔄 Project Pipeline
